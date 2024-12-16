@@ -901,3 +901,43 @@
 - [Awesome Viewer](https://awesome.digitalbunker.dev) - A visualizer for all of the above Awesome lists.
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 - [Open Source Heroes - Awesome](https://opensource-heroes.com/awesome) - View Awesome lists with extra info like stars, last update, and license.
+
+
+# 👋 Hello, I'm Aurilous!
+
+Welcome to my GitHub profile! I'm passionate about coding, learning, and building innovative projects.
+
+---
+
+## 🌟 About Me
+- 🔭 Currently working on: **[Your current project or focus area]**
+- 🌱 Learning: **[Technologies or skills you're learning]**
+- 💬 Ask me about: **[Topics or skills you are good at]**
+- ⚡ Fun fact: **[An interesting fact about yourself]**
+
+---
+
+## 📈 GitHub Stats
+![Aurilous's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aurilous&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aurilous&layout=compact&theme=dark)
+
+---
+
+## 🔧 Tools & Technologies
+Here are the tools and technologies I work with:
+- **Languages:** [e.g., Python, JavaScript, C++]
+- **Frameworks:** [e.g., React, Django, Flask]
+- **Tools:** [e.g., Git, Docker, VS Code]
+- **Databases:** [e.g., MySQL, MongoDB]
+
+---
+
+## 🌐 Connect With Me
+- [Portfolio Website](https://your-portfolio-link.com)
+- [LinkedIn](https://www.linkedin.com/in/aurilous)
+- [Twitter](https://twitter.com/aurilous)
+- [Email Me](mailto:your-email@example.com)
+
+---
+
+> _
